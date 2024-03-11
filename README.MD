@@ -21,6 +21,7 @@ This is a list of parts including some sources for it.
 * [Passive Buzzer](https://www.amazon.de/EasyWordMall-10PCS-Passive-Buzzer-Widerstand/dp/B0179I6LIK/)
 * [Hat](https://www.amazon.de/gp/product/B06XSGQHVM/)
 * [Goggles](https://de.aliexpress.com/item/1005006185599783.html)
+* [Cogwheels for additional decoration of the hat](https://de.aliexpress.com/item/1005006550851370.html)
 * [Candle LED](https://de.aliexpress.com/item/1005005445352883.html)
 * [Atomizer](https://de.aliexpress.com/item/1005006471010039.html)
 * [Atomizer Holder](https://de.aliexpress.com/item/1005005056005707.html)
