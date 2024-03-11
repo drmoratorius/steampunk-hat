@@ -92,6 +92,10 @@ hat, so it definitely cannot rest on your ears anymore 😁
 
 You could adapt the reservoir to make it smaller, but you'd also have to shorten the atomizer holder for that.
 
+### Extensibility
+As three switches in the 4066 and 6 outputs of ULN2803A are still unused you can extend it easily by connecting
+more GPIOs and devices to it.
+
 ## Programming
 The programming is done using JavaScript with [KalumaJS](https://kalumajs.org/) 
 utilizing the packages [buzzer-music](https://github.com/niklauslee/buzzer-music) and 
