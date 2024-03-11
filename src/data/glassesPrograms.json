@@ -1,0 +1,37 @@
+[
+  {
+    "name": "violetloop",
+    "time": 30,
+    "steps": [[0, "violet", 12, "violet"], [1, "violet", 23, "violet"], [2, "violet", 22, "violet"], [3, "violet", 21, "violet"], [4, "violet", 20, "violet"], [5, "violet", 19, "violet"], [6, "violet", 18, "violet"], [7, "violet", 17, "violet"], [8, "violet", 16, "violet"], [9, "violet", 15, "violet"], [10, "violet", 14, "violet"], [11, "violet", 13, "violet"], [0, "black", 12, "black"], [1, "black", 23, "black"], [2, "black", 22, "black"], [3, "black", 21, "black"], [4, "black", 20, "black"], [5, "black", 19, "black"], [6, "black", 18, "black"], [7, "black", 17, "black"], [8, "black", 16, "black"], [9, "black", 15, "black"], [10, "black", 14, "black"], [11, "black", 13, "black"]]
+  },
+  {
+    "name": "blueloop",
+    "time": 30,
+    "steps": [[0, "blue", 12, "blue"], [1, "blue", 23, "blue"], [2, "blue", 22, "blue"], [3, "blue", 21, "blue"], [4, "blue", 20, "blue"], [5, "blue", 19, "blue"], [6, "blue", 18, "blue"], [7, "blue", 17, "blue"], [8, "blue", 16, "blue"], [9, "blue", 15, "blue"], [10, "blue", 14, "blue"], [11, "blue", 13, "blue"], [0, "black", 12, "black"], [1, "black", 23, "black"], [2, "black", 22, "black"], [3, "black", 21, "black"], [4, "black", 20, "black"], [5, "black", 19, "black"], [6, "black", 18, "black"], [7, "black", 17, "black"], [8, "black", 16, "black"], [9, "black", 15, "black"], [10, "black", 14, "black"], [11, "black", 13, "black"]]
+  },
+  {
+    "name": "redloop",
+    "time": 30,
+    "steps": [[0, "red", 12, "red"], [1, "red", 23, "red"], [2, "red", 22, "red"], [3, "red", 21, "red"], [4, "red", 20, "red"], [5, "red", 19, "red"], [6, "red", 18, "red"], [7, "red", 17, "red"], [8, "red", 16, "red"], [9, "red", 15, "red"], [10, "red", 14, "red"], [11, "red", 13, "red"], [0, "black", 12, "black"], [1, "black", 23, "black"], [2, "black", 22, "black"], [3, "black", 21, "black"], [4, "black", 20, "black"], [5, "black", 19, "black"], [6, "black", 18, "black"], [7, "black", 17, "black"], [8, "black", 16, "black"], [9, "black", 15, "black"], [10, "black", 14, "black"], [11, "black", 13, "black"]]
+  },
+  {
+    "name": "randomloop",
+    "time": 30,
+    "steps": [[0, "random", 12, "random"], [1, "random", 23, "random"], [2, "random", 22, "random"], [3, "random", 21, "random"], [4, "random", 20, "random"], [5, "random", 19, "random"], [6, "random", 18, "random"], [7, "random", 17, "random"], [8, "random", 16, "random"], [9, "random", 15, "random"], [10, "random", 14, "random"], [11, "random", 13, "random"], [0, "black", 12, "black"], [1, "black", 23, "black"], [2, "black", 22, "black"], [3, "black", 21, "black"], [4, "black", 20, "black"], [5, "black", 19, "black"], [6, "black", 18, "black"], [7, "black", 17, "black"], [8, "black", 16, "black"], [9, "black", 15, "black"], [10, "black", 14, "black"], [11, "black", 13, "black"]]
+  },
+  {
+    "name": "randompixels",
+    "time": 100,
+    "steps": [["random", "random", 12, "random"]]
+  },
+  {
+    "name": "candle",
+    "time": 30,
+    "steps": [["random", "candle", 12, "candle"]]
+  },
+  {
+    "name": "off",
+    "time": 100,
+    "steps": [[0, "black", 12, "black"]]
+  }
+]

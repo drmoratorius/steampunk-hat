@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "buzzer-music": "github:niklauslee/buzzer-music",
+    "neopixel": "github:niklauslee/neopixel"
+  }
+}
