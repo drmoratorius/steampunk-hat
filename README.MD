@@ -29,7 +29,7 @@ This is a list of parts including some sources for it.
 * [USB Adapter](https://de.aliexpress.com/item/1005005632352287.html)
 * [PCB 70x90mm](https://de.aliexpress.com/item/1005006365975004.html)
 * [2 x push buttons](https://www.gameroomguys.com/Red-Mini-Round-Momentary-Pushbutton-with-Nut-Washer)
-* 3D-printed parts can be found in the [3D subdirectory](./3d)
+* 3D-printed parts can be found in the [3D subdirectory](./3D/)
 
 ## Schematic
 ![Schematic](./photos/schematic.png "Schematic")
