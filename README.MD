@@ -34,6 +34,17 @@ This is a list of parts including some sources for it.
 ![Schematic](./photos/schematic.png "Schematic")
 [Full schematic](./Dr.%20Moratorius'%20Steampunk%20Hat%201.0%20-%20Schematic.pdf)
 
+## Usage Notes
+_WARNING_: When water is inside the reservoir the hat *must* be laid flat on a table or something similar
+to prevent water leakage into the electronics etc.! When removing the hat you must not tilt it, but take it
+off horizontally and lie it on a flat surface with the bottom on the surface, not vice versa!
+
+Only use distilled water to prevent clogging of the atomizer.
+
+It's best to soak the atomizer holder part thoroughly before inserting it because otherwise it might
+take very long for it to soak in the water and start creating mist/fog. You should also prevent it from getting dry as this will
+heat up the atomizer and requires a long new soaking time again.
+
 ## Technical Notes
 * Uses an N20 motor enabled through the ULN2803A from an GPIO port
 * Uses a CD4066 quad switch to "press" the button on the atomizer
