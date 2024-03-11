@@ -147,3 +147,4 @@ I currently have connected a micro USB connector directly to the Pico to power i
 * [Button & Holder](https://www.thingiverse.com/thing:5078577)
 * [Motor Holder](https://www.thingiverse.com/thing:2660688)
 * [Large Cogwheel](https://www.thingiverse.com/thing:2730714)
+* [PLC Holder 70x90, unmodified](https://www.thingiverse.com/thing:2944598)
