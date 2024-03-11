@@ -62,6 +62,10 @@ heat up the atomizer and requires a long new soaking time again.
 The atomizer features a physical button that has to be "pressed" via a GPIO pin using a 4066 switch:
 ![Atomizer board](./photos/atomizer-board-button.jpg "Atomizer board")
 
+![Atomizer holder](./photos/atomizer-holder.jpg "Atomizer holder")
+
+![Atomizer reservoir](./photos/reservoir.jpg "Atomizer reservoir")
+
 ### Buttons
 The two buttons use specific button caps with [symbols](https://uxwing.com/) on it.
 
@@ -79,6 +83,10 @@ All electronics are placed on a simple PCB and wired manually. Creating a printe
 would of course also be possible, but I haven't done that because I only need one here. Feel free to do
 that though! This photo does not show the final board (added more cables and parts).
 ![Electronics](./photos/electronics.jpg "Electronics")
+
+![Inside](./photos/hat-inside.jpg "Inside if the hat")
+
+
 
 ### USB-C Connector
 I also added a USB-C connector with a custom 3D printed part, however when using that USB port
