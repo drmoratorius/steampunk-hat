@@ -2,6 +2,10 @@
 
 ![Steampunk Hat](./photos/hat.jpg "Steampunk Hat")
 
+
+[![Steampunk Hat Video](http://img.youtube.com/vi/9SDhbJPU9pM/0.jpg)](http://www.youtube.com/watch?v=9SDhbJPU9pM "Steampunk Hat Video")
+
+
 An interactive Steampunk hat with these features:
 - Goggles with animated LEDs with different colors, changeable by button push on the side of the hat
 - Atomizer that simulates steam coming out of the hat, can be turned on/off by button on the side of the hat
